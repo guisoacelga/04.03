@@ -15,9 +15,7 @@ public class FindFactorDemo {
 
         int counter = 1;
         while (counter <= number) {
-            // if (number == counter) {
-            //     System.out.print(counter);
-            // }
+
             if ((number % counter == 0) && (number!=counter) ) {
                 System.out.print(counter + ", ");
             }
@@ -25,7 +23,6 @@ public class FindFactorDemo {
             {
                 System.out.print(counter + ".");
             }
-
             counter++;
 
         }
