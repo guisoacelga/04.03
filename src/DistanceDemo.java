@@ -4,7 +4,7 @@ public class DistanceDemo {
 
         double miles = kilometerToMiles(kilometerValue);
         System.out.println(kilometerValue + "kilometers are " + miles + " miles." );
-        
+
     }
 
 
