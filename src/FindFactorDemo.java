@@ -25,7 +25,7 @@ public class FindFactorDemo {
             {
                 System.out.print(counter + ".");
             }
-            //System.out.println("");
+
             counter++;
 
         }
