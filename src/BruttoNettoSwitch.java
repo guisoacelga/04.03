@@ -2,7 +2,7 @@ public class BruttoNettoSwitch {
     public static void  main(String[] args) {
 
         float netPrice = 451;
-        int taxClass = 3;
+        int taxClass = 2;
         int taxRate = 0;
 
         switch (taxClass) {
